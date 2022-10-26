@@ -1,0 +1,4 @@
+[submodule "BLAKE2"]
+	path = BLAKE2
+	url = https://github.com/BLAKE2/BLAKE2.git
+	branch = master
